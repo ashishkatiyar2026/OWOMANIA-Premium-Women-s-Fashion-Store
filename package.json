@@ -1,0 +1,7 @@
+{
+  "name":"owomania-store",
+  "version":"1.0.0",
+  "private":true,
+  "description":"OWOMANIA fashion storefront with Netlify Functions, Supabase and Razorpay",
+  "dependencies":{"@supabase/supabase-js":"^2.49.1","razorpay":"^2.9.5"}
+}
